@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Practical 01</title>
+</head>
+<body bgcolor="lightpink">
+<h1 align="center">DAKSHITA HEDAU</h1>
+<h2 align="center">CS25017</h2>
+<p>This is a <b>BOLD</b> word.<br>This text is <i>ITALIC.</i><br>This text is <u>UNDERLINED.</u></p>
+</body>
+</html>
